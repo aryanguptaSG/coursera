@@ -16,18 +16,19 @@ h1{
 }
 .first{
 	height: 250px;
-	background: linear-gradient(red,yellow,green);
+	background: linear-gradient(#b09de6,red,#3d0fbc);
 	display: block;
 }
 .first h1{
 	position: relative;
 	top: 100px;
-	text-shadow: 2px 2px #ff0000;
+	color: #fff;
+	text-shadow: 2px 2px #000;
 }
 .second{
 	padding: 5px;
 	height: 400px;
-		background: linear-gradient(red,yellow,green);
+		background: linear-gradient(#b09de6,red,#3d0fbc);
 		display: block;
 
 }
@@ -37,6 +38,9 @@ h1{
 }
 .second .form h2{
 	margin-bottom:30px;
+	color: #fff;
+	font-size: 35px;
+	text-shadow: 2px 2px #000;
 }
 .second .form input{
 	margin-bottom: 30px;
