@@ -10,7 +10,4 @@ function fn(){
     document.getElementById("rwish1").innerHTML="I Wish You A Very <br><br>Happy Birthday "+" <br><br>' "+n+" ' ";
     document.getElementById("rwish2").innerHTML="May God <br>Bless You<br>"+" ' "+n+" '";
 
-
-
-
 }
