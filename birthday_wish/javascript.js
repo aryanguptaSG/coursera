@@ -1,6 +1,5 @@
 function fn(){
     var n = document.getElementById("username").value;
-      document.documentElement.scrollTop=0;
     document.getElementById("first").style.display="none";
     document.getElementById("second").style.display="none";
         document.getElementById("aryan").style.display="none";
