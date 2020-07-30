@@ -48,7 +48,7 @@ h1{
 .second .form input{
 	margin-bottom: 30px;
 }
-button{
+.form button{
 	font-size: 25px;
 	border-radius: 05mm;
 	color: rgb(146,60,173);
@@ -81,13 +81,13 @@ input{
 	background: linear-gradient(#b09de6,red,#3d0fbc);
 }
 .firstimage div{
-	background-image: url("images/first.jpeg");
+	background-image: url("images/third.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
 	height:800px;
 	margin: 10px;
-	text-align: right;
+	text-align: left;
 	border: 2px solid rgb(24,72,65);
 
 }
@@ -98,7 +98,7 @@ input{
 
 }
 .secondimage div{
-	background-image: url("images/second.jpeg");
+	background-image: url("images/fourth.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
